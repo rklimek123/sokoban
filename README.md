@@ -1,3 +1,10 @@
+# PLAY THE GAME
+https://code.world/haskell#P9ojfbUVsLfLXIridvK_p8w
+
+Start with [Space]. Reset with [Esc]. Undo with U. Walk with arrows.
+
+Push the boxes to their destinations.
+
 # Zadanie: Sokoban 4
 
 ## Etap 0
